@@ -3,7 +3,7 @@ name: Build and deploy on push
 on:
   push:
     branches:
-      - master
+    - master
 
 jobs:
   build:
@@ -16,5 +16,4 @@ jobs:
       env:
         PAGES_BRANCH: gh-pages
         BUILD_DIR: .
-        BUILD_FLAGS: --drafts
         TOKEN: ${{ secrets.TOKEN }}
