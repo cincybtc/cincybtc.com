@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://nashbitdevs.org"
+base_url = "https://cincybtc.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,15 +11,15 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-generate_feed = true
 feed_filename = "rss.xml"
+generate_feed = true
 
-title = "NashBitDevs"
-description = "NashBitDevs is a community in the Nashville area for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+description = "CincyBTC is a group of like-minded folk looking to learn about Bitcoin and meet others in the area who want to get involved in its development."
+title = "CincyBTC"
 
 [extra]
 # Put all your custom variables here
 
-github = "https://github.com/nashbitdevs/nashbitdevs.org"
-meetup = "https://www.meetup.com/bitcoinpark/"
-discord = "https://discord.gg/v2NmVZC63q"
+github = "https://github.com/cincybtc/cincybtc.com"
+telegram = "https://t.me/joinchat/Yt-J5-c7QRJiOGEx"
+twitter = "https://twitter.com/cinti_btc"

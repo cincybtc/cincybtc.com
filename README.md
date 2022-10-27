@@ -1,4 +1,4 @@
-# NashBitDevs
+# CincyBTC
 
 Simple Zola site for hosting all of the links from meetups past and future.
 
@@ -26,7 +26,7 @@ meetup_id = "<optional meetup id goes here>"
 +++
 ```
 
-After that, it's just simple [markdown](https://www.markdownguide.org/cheat-sheet/). 
+After that, it's just simple [markdown](https://www.markdownguide.org/cheat-sheet/).
 The site will auto-generate the rest.
 
 ## Changing Site Data
@@ -36,5 +36,5 @@ All site configurations are contained in `config.toml`.
 ## Attributions
 
 Thanks to [BitDevs NYC](https://github.com/BitDevsNYC/BitDevsNYC.github.io) for the
-Jekyll site that this site is based on, and to [BitDevs LA](https://bitdevsla.org) for creating 
+Jekyll site that this site is based on, and to [BitDevs LA](https://bitdevsla.org) for creating
 this [Zola](https://www.getzola.org) BitDevs template.
