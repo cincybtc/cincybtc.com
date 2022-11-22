@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CincyBTC</title>
+        <link>https://cincybtc.com</link>
+        <description>CincyBTC is a group of like-minded folk looking to learn about Bitcoin and meet others in the area who want to get involved in its development.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://cincybtc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>CincyBTC Meetup</title>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+            <link>https://cincybtc.com/meetup/</link>
+            <guid>https://cincybtc.com/meetup/</guid>
+            <description>&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm Tooling demonstration and recent news&lt;br &#x2F;&gt;
+8:00pm Further hanging and socializing&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for hanging out, a &lt;a href=&quot;https:&#x2F;&#x2F;bisq.network&#x2F;&quot;&gt;Bisq&lt;&#x2F;a&gt; demonstration, and more socialization.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;news-and-events&quot;&gt;News and Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;bug-took-down-part-of-the-lightning-network&quot;&gt;Another Bug Briefly Took Down Part Of The Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;the-collapse-of-ftx-was-inevitable&quot;&gt;The Warning Signs Were There: The Collapse Of FTX Was Inevitable&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;11&#x2F;09&#x2F;#continued-discussion-about-enabling-full-rbf&quot;&gt;RBF conversation continues&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;blockstream-launches-build-on-l2-bol2&quot;&gt;Blockstream Launches BOL2: Community For Bitcoin Development&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+    </channel>
+</rss>
