@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>CincyBTC</title>
+      <link>https://cincybtc.com</link>
+      <description>CincyBTC is a group of like-minded folk looking to learn about Bitcoin and meet others in the greater Cincinnati area who want to get involved in its development.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://cincybtc.com/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Social Meeting!</title>
+          <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2024-01-30-meetup/</link>
+          <guid>https://cincybtc.com/2024-01-30-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2024-01-30-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;19:00 Hang out and talk about the latest news in Bitcoin (...of which seems there may be a ton).&lt;br &#x2F;&gt;
+22:00 Go home!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a bitcoin only group.&lt;&#x2F;li&gt;
+&lt;li&gt;Bring your own snacks and drinks.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Bitcoin&#x27;s 15th Anniversary</title>
+          <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2024-01-03-meetup/</link>
+          <guid>https://cincybtc.com/2024-01-03-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2024-01-03-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:30 Meet and greet.&lt;br &#x2F;&gt;
+19:00 Local Lightning Market: Live BTC &amp;lt;-&amp;gt; USD auction (bring a lightning wallet and cash).&lt;br &#x2F;&gt;
+19:15 Local Lightning Market: Goods (bring a lightning wallet and any items you&#x27;d like to sell).&lt;br &#x2F;&gt;
+19:30 News and Network Statistics.&lt;br &#x2F;&gt;
+19:45 Sparrow Wallet version 1.8.1 feature review.&lt;br &#x2F;&gt;
+20:00 Considerations for handling a high fee environment.&lt;br &#x2F;&gt;
+20:30 Multi-Sig demo with Sparrow Wallet.&lt;br &#x2F;&gt;
+20:45 Migrating from Ledger or Trezor to Coldcard.&lt;br &#x2F;&gt;
+21:15 Social.&lt;br &#x2F;&gt;
+22:00 Go home!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a bitcoin only group.&lt;&#x2F;li&gt;
+&lt;li&gt;Bring your own snacks and drinks.&lt;&#x2F;li&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Social Meetup @ Fretboard Brewing Company - NORWOOD, OH</title>
+          <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-11-02-meetup/</link>
+          <guid>https://cincybtc.com/2023-11-02-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-11-02-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Social Meetup&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;We are going to meet at &lt;a href=&quot;https:&#x2F;&#x2F;www.fretboardbrewing.com&#x2F;norwood&quot;&gt;Fretboard Brewing Company, NORWOOD&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;LOCATED IN THE GATHERALL AT FACTORY 52&lt;br &#x2F;&gt;
+2750 PARK AVE SUITE O&lt;br &#x2F;&gt;
+NORWOOD, OH 45212&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;RnpdQF5ZhYBu2kXz7&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We are meeting on a Thursday this time instead of a Tuesday.&lt;&#x2F;li&gt;
+&lt;li&gt;There are some other places in the same complex to buy carry out food.&lt;&#x2F;li&gt;
+&lt;li&gt;We are meeting at the &lt;strong&gt;Norwood&lt;&#x2F;strong&gt; location of Fretboard Brewing Company.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>What is the consensus ruleset, what are BIPs, and how are they implemented?</title>
+          <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-10-17-meetup/</link>
+          <guid>https://cincybtc.com/2023-10-17-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-10-17-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm What is the consensus ruleset, what are BIPs, and how are they implemented?&lt;&#x2F;p&gt;
+&lt;p&gt;At this meeting, we will learn:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;How the security of the consensus ruleset is enforced in the network.&lt;&#x2F;li&gt;
+&lt;li&gt;How changes are made to the consensus ruleset.&lt;&#x2F;li&gt;
+&lt;li&gt;What the difference is between soft and hard forks.&lt;&#x2F;li&gt;
+&lt;li&gt;What are chain splits and orphan blocks.&lt;&#x2F;li&gt;
+&lt;li&gt;Why there will never be more than 21 million bitcoin.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Social Meetup @ Fabled Brew Works in Erlanger, KY</title>
+          <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-08-15-meetup/</link>
+          <guid>https://cincybtc.com/2023-08-15-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-08-15-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Social Meetup&lt;br &#x2F;&gt;
+9:00pm They will close if you stop buying drinks!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;We are going to meet at &lt;a href=&quot;https:&#x2F;&#x2F;www.fabledbrewworks.beer&#x2F;&quot;&gt;Fabled Brew Works&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;331 Kenton Lands Rd Suite 300&lt;br &#x2F;&gt;
+Erlanger, KY  41018&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;8xw7L28qqCZvwc2M8&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;notes&quot;&gt;Notes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;There are normally food trucks at Fabled, but not on Tuesdays so you can bring your own food or snacks if you want (as long as you are buying drinks!).&lt;&#x2F;li&gt;
+&lt;li&gt;Fabled does not do table reservations, so hopefully some people can wear their bitcoin shirts or hats and new people can find the group (it&#x27;s a small place).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Running A Node Part 4: Opening Lightning channels, routing payments, and channel balancing.</title>
+          <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-08-01-meetup/</link>
+          <guid>https://cincybtc.com/2023-08-01-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-08-01-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Running A Node Part 4: Opening Lightning channels, routing payments, and channel balancing.&lt;br &#x2F;&gt;
+9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Part 3: Using Umbrel and Start9 continued</title>
+          <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-07-18-meetup/</link>
+          <guid>https://cincybtc.com/2023-07-18-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-07-18-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Part 3: Using Umbrel and Start9 continued&lt;&#x2F;p&gt;
+&lt;p&gt;At this meeting, we will:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume from our last event and dive deeper into the use of Umbrel and Start9.&lt;&#x2F;li&gt;
+&lt;li&gt;Connect bluewallet to electrs.&lt;&#x2F;li&gt;
+&lt;li&gt;Open a lightning channel.&lt;&#x2F;li&gt;
+&lt;li&gt;Use Lightning Terminal, Thunderhub, and Ride the Lightning.&lt;&#x2F;li&gt;
+&lt;li&gt;Do a submarine swap.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;notes-from-last-time&quot;&gt;Notes From Last Time&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitnodes.io&#x2F;&quot;&gt;Bitnodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jlopp.github.io&#x2F;bitcoin-core-config-generator&#x2F;&quot;&gt;Bitcoin Core Config Generator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;1ml.com&#x2F;&quot;&gt;1ML - Lightning Network Search and Analysis Engine&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unchained.com&#x2F;blog&#x2F;bitcoin-source-code-21-million&#x2F;&quot;&gt;How does the bitcoin source code define its 21 million cap?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Part 2: Using Umbrel Start9, and Raspiblitz</title>
+          <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-06-27-meetup/</link>
+          <guid>https://cincybtc.com/2023-06-27-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-06-27-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Part 2: Using Umbrel Start9, and Raspiblitz&lt;&#x2F;p&gt;
+&lt;p&gt;At this meeting, we will:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume from our last event with the initial Bitcoin blockchain download complete.&lt;&#x2F;li&gt;
+&lt;li&gt;Look at the installation of essential bitcoin applications like Lightning and Electrum on each system.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Part 1: Installing Umbrel, Start9, and Raspiblitz</title>
+          <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-06-20-meetup/</link>
+          <guid>https://cincybtc.com/2023-06-20-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-06-20-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Part 1: Installing Umbrel, Start9, and Raspiblitz&lt;&#x2F;p&gt;
+&lt;p&gt;At this meeting, we will:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look at these three popular self-hosted server operating systems using three different computers.&lt;&#x2F;li&gt;
+&lt;li&gt;Download the system image file for each.&lt;&#x2F;li&gt;
+&lt;li&gt;Transfer the image to each computer&#x27;s disk. We&#x27;ll use both a standard Raspberry Pi 4 with an SD card as well as a Raspberry Pi Compute Module 4 with onboard storage.&lt;&#x2F;li&gt;
+&lt;li&gt;Boot each computer and go through the initial setup process.&lt;&#x2F;li&gt;
+&lt;li&gt;Take a look at the user interface of each operating system.&lt;&#x2F;li&gt;
+&lt;li&gt;See the initial Bitcoin blockchain download start on each computer.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>What is the Lightning Network?</title>
+          <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-06-06-meetup/</link>
+          <guid>https://cincybtc.com/2023-06-06-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-06-06-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm What is the Lightning Network?&lt;&#x2F;p&gt;
+&lt;p&gt;In this discussion, we will learn about lightning&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Channels&lt;&#x2F;li&gt;
+&lt;li&gt;Opening and Closing Transactions&lt;&#x2F;li&gt;
+&lt;li&gt;Security Model&lt;&#x2F;li&gt;
+&lt;li&gt;Payment Latency&lt;&#x2F;li&gt;
+&lt;li&gt;Nodes&lt;&#x2F;li&gt;
+&lt;li&gt;Routing Fees&lt;&#x2F;li&gt;
+&lt;li&gt;Invoices&lt;&#x2F;li&gt;
+&lt;li&gt;Privacy&lt;&#x2F;li&gt;
+&lt;li&gt;Wallets&lt;&#x2F;li&gt;
+&lt;li&gt;Liquidity&lt;&#x2F;li&gt;
+&lt;li&gt;Submarine Swaps&lt;&#x2F;li&gt;
+&lt;li&gt;Limitations&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>UTXOs Explained: Understanding Bitcoin Transactions for Beginners</title>
+          <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-05-23-meetup/</link>
+          <guid>https://cincybtc.com/2023-05-23-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-05-23-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm UTXOs Explained: Understanding Bitcoin Transactions for Beginners&lt;&#x2F;p&gt;
+&lt;p&gt;In this discussion, we will&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn one of the fundamentals of Bitcoin: What is an unspent transaction output (UTXO).&lt;&#x2F;li&gt;
+&lt;li&gt;Learn what a UTXO has to do with the bitcoin blockchain.&lt;&#x2F;li&gt;
+&lt;li&gt;Learn how UTXOs are created, how they are consumed, and what they have to do with bitcoin transactions.&lt;&#x2F;li&gt;
+&lt;li&gt;See UTXOs in popular web based block explorers.&lt;&#x2F;li&gt;
+&lt;li&gt;Take a look at the current number of UTXOs in the bitcoin blockchain.&lt;&#x2F;li&gt;
+&lt;li&gt;Discuss how digital signatures are able to authorize the transfer ownership of the bitcoin stored in UTXOs to new UTXOs.&lt;&#x2F;li&gt;
+&lt;li&gt;Discuss how UTXOs are used by wallets and how poor wallet design and use can lead to poor transactional privacy.&lt;&#x2F;li&gt;
+&lt;li&gt;Mention CoinJoin transactions and how they seek to improve the privacy.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Running a fully validating bitcoin full node</title>
+          <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-04-11-meetup/</link>
+          <guid>https://cincybtc.com/2023-04-11-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-04-11-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Running a fully validating bitcoin full node&lt;&#x2F;p&gt;
+&lt;p&gt;In this discussion, we will&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take a look at what it takes to run bitcoin core, the most critical software in the bitcoin ecosystem that allows you to audit the entire transaction history of bitcoin and ensure that there is indeed a finite amount of bitcoin that will ever exist.&lt;&#x2F;li&gt;
+&lt;li&gt;Learn basic hardware requirements like CPU, RAM, disk space, and networking bandwidth.&lt;&#x2F;li&gt;
+&lt;li&gt;See the graphical wallet interface in bitcoin core, as well as the command line interface.&lt;&#x2F;li&gt;
+&lt;li&gt;Learn about peer connections.&lt;&#x2F;li&gt;
+&lt;li&gt;Look at what is contained in a bitcoin &amp;quot;block&amp;quot; and what transactions look like in bitcoin core&#x27;s database.&lt;&#x2F;li&gt;
+&lt;li&gt;Touch on fee markets and what the mempool is.&lt;&#x2F;li&gt;
+&lt;li&gt;Discuss what is &amp;quot;replace by fee&amp;quot; and what is &amp;quot;child pays for parent&amp;quot;.&lt;&#x2F;li&gt;
+&lt;li&gt;See what kind of configuration options bitcoin core has.&lt;&#x2F;li&gt;
+&lt;li&gt;Discuss the importance of software integrity.&lt;&#x2F;li&gt;
+&lt;li&gt;Mention several easy to use home server operating systems that come with bitcoin core built in.&lt;&#x2F;li&gt;
+&lt;li&gt;Understand why most wallets rely on the electrum server and protocol in addition to bitcoin core.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Social Meetup</title>
+          <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-03-28-meetup/</link>
+          <guid>https://cincybtc.com/2023-03-28-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-03-28-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Social Meetup&lt;br &#x2F;&gt;
+9:00pm We may be done, or we may still be talking!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;We are going to reserve a table at &lt;strong&gt;Woodburn Brewing&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;2800 Woodburn Ave&lt;br &#x2F;&gt;
+Cincinnati, OH 45206&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;goo.gl&#x2F;maps&#x2F;sRtWuhz4soi1812RA&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Multi Signature Demo</title>
+          <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-03-14-meetup/</link>
+          <guid>https://cincybtc.com/2023-03-14-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-03-14-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm Decide topics and date for next technical meetup.&lt;br &#x2F;&gt;
+7:30PM News &#x2F; Current Events&lt;br &#x2F;&gt;
+8:00pm Multi Signature Demo using multiple signing device types (Blue Wallet, Sparrow Wallet, Coldcard, etc.)&lt;br &#x2F;&gt;
+8:30pm Discussion: Fee Markets, Replace By Fee (RBF), Child Pays for Parent (CPFP)&lt;br &#x2F;&gt;
+9:00pm Close&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements-notes-from-last-time&quot;&gt;Announcements &#x2F; Notes From Last Time&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We still never got to do the RoboSats demo. Will try again in the future!&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;ZeusLN&#x2F;status&#x2F;1605566054130147328&quot;&gt;Lightning Node Connect in Zeus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;roasbeef&#x2F;status&#x2F;1626720335302377472&quot;&gt;LND Accounts in Zeus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learnmeabitcoin.com&#x2F;&quot;&gt;learn me a bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lnvpn.net&#x2F;&quot;&gt;LN VPN&lt;&#x2F;a&gt; !&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>CincyBTC Meetup</title>
+          <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-02-28-meetup/</link>
+          <guid>https://cincybtc.com/2023-02-28-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-02-28-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm News &#x2F; Current Events&lt;br &#x2F;&gt;
+7:30pm Fedimint continued (Tarun)&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out &lt;a href=&quot;https:&#x2F;&#x2F;lnvpn.net&#x2F;&quot;&gt;LN VPN&lt;&#x2F;a&gt; !&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>CincyBTC Meetup</title>
+          <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-01-31-meetup/</link>
+          <guid>https://cincybtc.com/2023-01-31-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-01-31-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm Tech Chat&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;NOSTR - Demo and key exchange&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fedimint.org&#x2F;&quot;&gt;Fedimint&lt;&#x2F;a&gt; - pros and cons&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;indra-labs&#x2F;indra&quot;&gt;Indranet&lt;&#x2F;a&gt; - will it replace TOR?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bolt12.org&#x2F;&quot;&gt;BOLT12&lt;&#x2F;a&gt; - Why you should care.&lt;br &#x2F;&gt;
+8:00pm Try #2 of RoboSats demo.&lt;br &#x2F;&gt;
+8:30pm Open&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Last time we played &lt;a href=&quot;https:&#x2F;&#x2F;www.freemarketkids.com&#x2F;products&#x2F;hodl-up&quot;&gt;HODL UP&lt;&#x2F;a&gt; with the its creators!&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;robosats&quot;&gt;RoboSats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learn.robosats.com&#x2F;&quot;&gt;Documentation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Reckless-Satoshi&#x2F;robosats&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;robosats-private-bitcoin-exchange&quot;&gt;RoboSats: Exchanging Bitcoin Easily, Privately And KYC-Free&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobile.twitter.com&#x2F;robosats&quot;&gt;Twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;discussion-follow-up&quot;&gt;Discussion Follow Up&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bolt11.org&#x2F;&quot;&gt;BOLT11.org&lt;&#x2F;a&gt; does not explicitly show the public key of the payee in an invoice, but it can be &amp;quot;recovered&amp;quot; from the signature &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;blob&#x2F;master&#x2F;11-payment-encoding.md&quot;&gt;see BOLT11&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdecoder.com&#x2F;&quot;&gt;lightningdecoder.com&lt;&#x2F;a&gt; does explicitly recover the public key of the payee in an invoice, but it doesn&#x27;t show where it came from in the invoice.  &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>CincyBTC Meetup</title>
+          <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2023-01-17-meetup/</link>
+          <guid>https://cincybtc.com/2023-01-17-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2023-01-17-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm RoboSats demonstration and recent news&lt;br &#x2F;&gt;
+8:00pm Further hanging and socializing&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for hanging out, a &lt;a href=&quot;https:&#x2F;&#x2F;learn.robosats.com&#x2F;&quot;&gt;RoboSats&lt;&#x2F;a&gt; demonstration, and more socialization.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;robosats&quot;&gt;RoboSats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;learn.robosats.com&#x2F;&quot;&gt;Documentation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Reckless-Satoshi&#x2F;robosats&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;robosats-private-bitcoin-exchange&quot;&gt;RoboSats: Exchanging Bitcoin Easily, Privately And KYC-Free&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobile.twitter.com&#x2F;robosats&quot;&gt;Twitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>CincyBTC Meetup</title>
+          <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://cincybtc.com/2022-11-22-meetup/</link>
+          <guid>https://cincybtc.com/2022-11-22-meetup/</guid>
+          <description xml:base="https://cincybtc.com/2022-11-22-meetup/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;7:00pm Meet and greet&lt;br &#x2F;&gt;
+7:15pm Tooling demonstration and recent news&lt;br &#x2F;&gt;
+8:00pm Further hanging and socializing&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;location&quot;&gt;Location&lt;&#x2F;h3&gt;
+&lt;p&gt;The event is hosted at &lt;strong&gt;McCarthy Stevenot Agency, Inc&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;p&gt;209 Main St&lt;br &#x2F;&gt;
+Milford, OH 45150&lt;br &#x2F;&gt;
+(Looks like an art gallery and has old trains in the front window).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.google.com&#x2F;maps&#x2F;place&#x2F;McCarthy+Stevenot+Agency,+Inc.&#x2F;@39.1741388,-84.2966441,17z&#x2F;data=!4m12!1m6!3m5!1s0x884053ded069cfdf:0xa6db0edc78b578da!2sMcCarthy+Stevenot+Agency,+Inc.!8m2!3d39.1741282!4d-84.295781!3m4!1s0x884053ded069cfdf:0xa6db0edc78b578da!8m2!3d39.1741282!4d-84.295781&quot;&gt;Map&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;announcements&quot;&gt;Announcements&lt;&#x2F;h3&gt;
+&lt;p&gt;Join us for hanging out, a &lt;a href=&quot;https:&#x2F;&#x2F;bisq.network&#x2F;&quot;&gt;Bisq&lt;&#x2F;a&gt; demonstration, and more socialization.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;reminders&quot;&gt;Reminders&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No photos, videos, audio recording&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Leave the meeting space as clean as you found it&lt;&#x2F;li&gt;
+&lt;li&gt;Suggest topics for the next meetup! &lt;a href=&quot;&#x2F;about&#x2F;find-topics&quot;&gt;Where to find topics?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;news-and-events&quot;&gt;News and Events&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;bug-took-down-part-of-the-lightning-network&quot;&gt;Another Bug Briefly Took Down Part Of The Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;the-collapse-of-ftx-was-inevitable&quot;&gt;The Warning Signs Were There: The Collapse Of FTX Was Inevitable&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;network-stats&quot;&gt;Network Stats&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;new-work-research&quot;&gt;New Work &#x2F; Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;11&#x2F;09&#x2F;#continued-discussion-about-enabling-full-rbf&quot;&gt;RBF conversation continues&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-projects&quot;&gt;Bitcoin Projects&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;blockstream-launches-build-on-l2-bol2&quot;&gt;Blockstream Launches BOL2: Community For Bitcoin Development&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+    </channel>
+</rss>
