@@ -1,18 +1,18 @@
-# The URL the site will be built for
+# # The URL the site will be built for
 base_url = "https://cincybtc.com"
 
-# Whether to automatically compile all Sass files in the sass directory
+# # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+# # Whether to do syntax highlighting
+# # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+# highlight_code = true
 
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+# # Whether to build a search index to be used later on by a JavaScript library
+# build_search_index = false
 
-feed_filename = "rss.xml"
-generate_feed = true
+# feed_filename = "rss.xml"
+# generate_feed = true
 
 description = "CincyBTC is a group of like-minded folk looking to learn about Bitcoin and meet others in the greater Cincinnati area who want to get involved in its development."
 title = "CincyBTC"
